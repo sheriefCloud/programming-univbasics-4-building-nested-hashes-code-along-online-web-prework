@@ -20,19 +20,6 @@ def fourth_challenge
    }
 }
 
-# bonus = epic_tragedy
-# epic_tragedy[:montague][:hero][:status]="dead"
-# epic_tragedy[:capulet][:heroine][:status]="dead"
-#
-# bonus
 
-end
-
-def bonus(old_hash)
-  new_hash = {}
-  old_hash = new_hash
-
-  new_hash[:montague][:hero][:status]="dead"
-  new_hash[:capulet][:heroine][:status]="dead"
 
 end
